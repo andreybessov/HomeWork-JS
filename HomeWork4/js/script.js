@@ -49,8 +49,8 @@
 // function cssInfo() {
 //     alert('CSS - мова за допомогою якої оформлюються усі веб сторінки.')
 // }
-// document.querySelector('.html').onclick = htmlInfo;
-// document.querySelector('.css').onclick = cssInfo;
+//document.querySelector('#html').addEventListener("click", htmlInfo);
+//document.querySelector('#css').addEventListener("click", cssInfo);
 
 
 //Завдання номер 3
