@@ -43,4 +43,4 @@
 //     number: 8
 // })
 
-// console.log(Igor)
+// console.log(Igor.userNumber)
